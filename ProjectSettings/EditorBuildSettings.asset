@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Moc01.unity
     guid: 7b2709e9cf042f840988975242f69b83
+  - enabled: 1
+    path: Assets/Text.unity
+    guid: 2006155aa44139b409697a89fcfabb03
